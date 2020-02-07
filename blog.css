@@ -1,0 +1,17 @@
+.date {
+    color: blue
+}
+
+h2 {
+    color:navy
+}
+
+.quote {
+    margin-left: 1%;
+}
+
+html {
+    border-radius: 30px;
+    padding-left: 175px;
+    padding-right: 175px;
+}
