@@ -7,11 +7,20 @@ h2 {
 }
 
 .quote {
-    margin-left: 1%;
+    margin: 1%;
 }
 
 html {
-    border-radius: 30px;
-    padding-left: 175px;
-    padding-right: 175px;
+    border-top-width: 15px;
+    border-top-style: 15px;
+    border-top-color: aqua;
+    border-bottom-width: 15px;
+    border-bottom-style: 15px;
+    border-bottom-color: aqua;
+    border-right-width: 15px;
+    border-right-style: 15px;
+    border-right-color: aqua;
+    border-left-width: 15px;
+    border-left-style: 15px;
+    border-left-color: aqua;
 }
